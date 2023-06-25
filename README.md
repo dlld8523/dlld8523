@@ -1,5 +1,4 @@
-![data science](https://github.com/dlld8523/dlld8523/assets/136980403/bb2b828c-e8eb-4c51-9b8c-715b3fb78b21)
-
+![data science](https://github.com/dlld8523/dlld8523/assets/136980403/d4d32404-893c-4050-b319-d5f699e72441)
 # Welcome to My GitHub Profile!
  
 Hello! I'm Yan Li, an aspiring data analyst based in London, UK. I am passionate about utilizing technology to solve complex business problems. With a strong analytical mindset and attention to detail, I strive to deliver work of the highest quality. Welcome to my GitHub profile, where you can explore my projects and contributions related to data analysis and technology.
